@@ -1,5 +1,5 @@
 # Olá! Eu sou o Vinícius Barros 👋
-## Engenheiro de Analytics | Transformando dados brutos em decisões estratégicas
+## Físico | Engenheiro de Analytics | Transformando dados brutos em decisões estratégicas
 
 Sou focado em construir a ponte entre a engenharia de dados e a inteligência de negócios. Atuo diretamente na estruturação de Data Warehouses (Arquitetura Medallion / Star Schema), construção de pipelines (ELT) e modelagem de dados voltada para gerar impacto analítico real.
 
