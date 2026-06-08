@@ -1,16 +1,40 @@
-## Hi there 👋
+# Olá! Eu sou o Vinícius Barros 👋
+## Engenheiro de Analytics | Transformando dados brutos em decisões estratégicas
 
-<!--
-**viniciusbarros-cloud/viniciusbarros-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou focado em construir a ponte entre a engenharia de dados e a inteligência de negócios. Atuo diretamente na estruturação de Data Warehouses (Arquitetura Medallion / Star Schema), construção de pipelines (ELT) e modelagem de dados voltada para gerar impacto analítico real.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <!-- Linguagens & Banco de Dados -->
+  <img src="https://img.shields.io/badge/SQL_Avançado-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Avançado" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+</p>
+
+<p align="left">
+  <!-- Modern Data Stack & BI -->
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel_&_VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel e VBA" />
+</p>
+
+<p align="left">
+  <!-- Versionamento -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+### 🎯 Foco Analítico
+* **Analytics Engineering:** Lógica ELT, estruturação de *Data Products* e modelagem dimensional.
+* **SQL Analytics:** *Window Functions*, CTEs avançadas e Análise Exploratória de Dados (EDA).
+* **Data Quality:** Validação de integridade, testes de nulos e governança em repositórios de dados.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=viniciusbarros-cloud&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbarros-cloud&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150"/>
+</p>
