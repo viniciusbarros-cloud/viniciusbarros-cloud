@@ -34,7 +34,6 @@ Sou focado em construir a ponte entre a engenharia de dados e a inteligência de
 
 ### 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=viniciusbarros-cloud&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbarros-cloud&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150"/>
-</p>
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=viniciusbarros-cloud&show_icons=true&theme=radical)](https://github.com/viniciusbarros-cloud)
+
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbarros-cloud&layout=compact&theme=radical)](https://github.com/viniciusbarros-cloud)
