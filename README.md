@@ -29,6 +29,7 @@ Sou focado em construir a ponte entre a engenharia de dados e a inteligência de
 * **Analytics Engineering:** Lógica ELT, estruturação de *Data Products* e modelagem dimensional.
 * **SQL Analytics:** *Window Functions*, CTEs avançadas e Análise Exploratória de Dados (EDA).
 * **Data Quality:** Validação de integridade, testes de nulos e governança em repositórios de dados.
+* **Business Intelligence:** Desenvolvimento de painéis executivos complexos e modelagem dimensional (Power BI / Excel).
 
 ---
 
